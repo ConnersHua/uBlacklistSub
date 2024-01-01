@@ -1,0 +1,11 @@
+! Content Farm
+*://*.csdn.net/*
+*://cloud.tencent.com/developer/*
+*://developer.huaweicloud.com/tags/*
+*://juejin.cn/s/*
+
+*://*.cn2linux.com/*
+*://*.cxyzjd.com/*
+*://codeantenna.com/*
+*://machbbs.com/*
+*://www.yisu.com/zixun/*
