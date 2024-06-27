@@ -1,8 +1,13 @@
 ! Content Farm
+*://*.51cto.com/topic/*
 *://*.csdn.net/*
+*://*.doubao.com/*
 *://*.douyin.com/search/*
 *://*.douyin.com/shipin/*
 *://*.douyin.com/zhuanti/*
+*://*.gitcode.com/*
+*://*.qidian.com/ask/*
+*://*.ximalaya.com/ask/*
 *://cloud.tencent.com/developer/*
 *://developer.huaweicloud.com/tags/*
 *://juejin.cn/s/*
@@ -16,6 +21,7 @@
 *://*.9t.pw/*
 *://*.china-znl.com/*
 *://*.cn2linux.com/*
+*://*.codeantenna.com/*
 *://*.cxyzjd.com/*
 *://*.dacongyun.com/*
 *://*.db.mk/*
@@ -32,9 +38,11 @@
 *://*.hostloc.net/*
 *://*.hostloc.wiki/*
 *://*.kvx.me/*
+*://*.machbbs.com/*
 *://*.meipian.cn/*
 *://*.mjj.cm/*
 *://*.pxx7.com/*
+*://*.shenlongbbs.com/*
 *://*.visitbundala.com/*
 *://*.wai1.cn/*
 *://*.worldpeace.tw/*
@@ -42,10 +50,8 @@
 *://*.xiu.ee/*
 *://*.xn--7fr00gnx4c.tw/*
 *://*.xshdkj.com/*
+*://*.zhihuiyinqing.com.cn/*
 *://*.zhujicankao.com/*
-*://codeantenna.com/*
-*://machbbs.com/*
-*://zhihuiyinqing.com.cn/*
 
 ! C&J Marketing
 *://*.4009997658.com/*
